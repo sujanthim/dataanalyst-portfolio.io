@@ -1,10 +1,12 @@
-# portfolio.github.io
+Data Analyst
 
-##Education 
+##Education##
 Masters in Computer Science
 
-##Work Experience
+##Work Experience##
 Over 12 years of experience as a Software professional with extensive focus on data analysis, development and problem solving. 
+
+##Projects##
 
 
 
